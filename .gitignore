@@ -1,0 +1,10 @@
+build
+scud
+koke
+fishman
+*.a
+*.lib
+*.exe
+*.dll
+*.zip
+*.DLL
